@@ -11,16 +11,11 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
+  font-family: Georgia, serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
-}
-
-body {
-  margin: 0;
-  line-height: 1.375;
 }
 
 .img-flex {
